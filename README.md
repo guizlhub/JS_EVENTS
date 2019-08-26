@@ -1,3 +1,4 @@
+
 //Foncion 1 
 let blop = document.getElementsByTagName('footer')
 	blop[0].addEventListener("click", function(){ 
