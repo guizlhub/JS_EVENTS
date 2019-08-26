@@ -1,3 +1,4 @@
+```javascript
 
 //Foncion 1 
 let blop = document.getElementsByTagName('footer')
@@ -94,30 +95,5 @@ flech.addEventListener('click',function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
